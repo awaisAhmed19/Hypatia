@@ -45,3 +45,7 @@ class Welcome(commands.Cog):
     @commands.command()
     async def fleave(self, ctx):
         await self.on_member_remove(ctx.author)
+
+
+async def setup(bot):
+    await bot.add_cog(Welcome(bot))

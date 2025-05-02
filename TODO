@@ -1,6 +1,33 @@
-Create categories and channels ✅
-Set proper permissions ✅
-Create roles: Scholar, Philosopher, Inventor, Mathematician
-Set up Hypatia basic bot (maybe in Python first, can be expanded later) ✅
-Design starter event: Like a "Founding Day" project showcase!
-Make some scroll-styled rules pinned in #welcome
+📚 General Commands
+/help – Show all available commands.
+
+/rules – Show server rules (link or embed).
+
+/info – Show info about the server (founding date, theme, goals).
+
+/about – Lore of the Library of Alexandria — sell the vibe.
+
+📖 Knowledge Commands
+/quote – Get a random quote from a philosopher/historian.
+
+/book [title] – Search or recommend books.
+
+/define [word] – Dictionary lookup.
+
+/fact [category] – Drop a random historical/scientific fact.
+
+🎓 Member Commands
+/profile – View your XP level, titles, or scholar rank.
+
+/rankings – Leaderboard of top contributors.
+
+/submit [topic] – Submit a book review, essay, or resource.
+
+🛡️ Mod/Admin Commands (For managing the scrolls and scribes)
+/mute [@user] [time]
+
+/warn [@user] [reason]
+
+/purge [amount] – Clear messages.
+
+/role [@user] [role] – Assign a role like “Scribe”, “Scholar”, “Curator”.
